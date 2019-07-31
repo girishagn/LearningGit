@@ -2,6 +2,6 @@ hosts: localhost
 tasks:
   - copy:
      dest: /etc/hi.txt
-     content: "Learn Git"
+     content: "Learn Git as part of devops"
 
  
